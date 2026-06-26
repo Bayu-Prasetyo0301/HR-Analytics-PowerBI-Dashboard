@@ -6,7 +6,7 @@ Proyek ini berfokus pada analisis data Sumber Daya Manusia (HR) untuk mengidenti
 ---
 
 ## 📊 Tampilan Dashboard
-<img width="1163" height="656" alt="image" src="https://github.com/user-attachments/assets/78fd903f-19af-4566-b87e-1f312bd6029a" />
+<img width="1160" height="650" alt="image" src="https://github.com/user-attachments/assets/1c5aa4b8-2e14-4cfe-8a19-adc73d9ff09c" />
 
 
 ---
